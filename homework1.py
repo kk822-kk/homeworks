@@ -1,3 +1,4 @@
+#1
 Name = "Lola"
 Age = 19
 Height = 176
@@ -11,7 +12,7 @@ print(f"is adult: {is_adult}")
 
 
 
-
+#2
 Price = 150.0
 Price_with_taxes = Price * 1.12
 Discount = Price - 30.0
@@ -27,7 +28,7 @@ print(Price_per_person)
 
 
 
-
+#3
 temperature = 38.5
 normal_temperature = 36.6
 Greater = temperature > normal_temperature
@@ -42,7 +43,7 @@ print(f"Temp is less than normal temp: {Less}")
 
 
 
-
+#4
 a = 42
 b = 3.14
 c = "hello"
@@ -55,7 +56,7 @@ print(type(d))
 
 
 
-
+#5
 x = 17
 y = 5
 
