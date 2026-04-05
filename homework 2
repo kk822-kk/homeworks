@@ -6,7 +6,22 @@ print(name.title())
 
 
 
-#2---------------------
+#2
+sentence = "  the quick brown fox jumps over the lazy dog  "
+
+stripped_sentence = sentence.strip()
+print(stripped_sentence)
+
+count_o = sentence.count("o")
+print(count_o)
+
+replaced = sentence.replace("fox", "cat")
+print(replaced)
+
+words = stripped_sentence.split()
+first3 = words[:3]
+print(first3)
+
 
 
 
