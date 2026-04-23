@@ -144,3 +144,22 @@ def translate(sentence, dictionary):
 result = translate("hello , this is my friend", translator)
 print(result)
 
+
+
+
+
+#7
+
+emails = [
+    "alice@x.com", 
+    "john@x.com",  
+    "giorgi@x.com",  
+    "maka@x.com",  
+    "giorgi@x.com",  
+]
+
+unique_emails = set(emails)
+print(unique_emails)
+print(f"Unique: {len(unique_emails)}, total: {len(emails)}")
+
+
