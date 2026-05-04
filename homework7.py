@@ -148,5 +148,3 @@ class book:
     print(f"book 3 pages {len(book3)}")
     print(f"book 1 is equal book 2: {book1 == book2}")
     print(f"book 1 is equal book 3: {book1 == book3}")
-
-zuka
